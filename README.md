@@ -91,5 +91,6 @@ s.close()
 
 ### Download
 <img width="1133" height="339" alt="image" src="https://github.com/user-attachments/assets/eab67bf3-f94a-4b98-b1e7-a092d4def6f4" />
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
